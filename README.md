@@ -25,4 +25,4 @@ A computational model that bridges my Physics background with programming.
 * Tools: Pydroid 3, Google Colab
 
 ## 📬 Contact Me
-Feel free to connect with me on [LinkedIn](www.linkedin.com/in/anand-samadhiya-1133ab3b9) to discuss tech, pharmacy, or startup ideas!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/anand-samadhiya-1133ab3b9) to discuss tech, pharmacy, or startup ideas!
